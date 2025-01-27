@@ -14,6 +14,9 @@ To deliver an accurate, scalable, and versatile machine learning model.
 Features
 
 **Fake Review Detection:** Identify fraudulent reviews with machine learning techniques.
+
 **Sentiment Analysis:** Classify reviews as positive, negative, or neutral.
+
 **Multi-Dataset Support:** Works with datasets from Amazon, Netflix, and Twitter.
+
 **Scalable Architecture:** Designed to handle large datasets for real-time analysis.
